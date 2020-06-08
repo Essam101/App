@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/id_about"
+        android:icon="@drawable/ic_priority_high_black_24dp"
+        android:title="About"
+        />
+    <item android:id="@+id/id_contact"
+        android:icon="@drawable/ic_phone_black_24dp"
+        android:title="Contact Us"
+
+        />
+    <item android:id="@+id/id_facebook"
+        android:icon="@drawable/ic_facebook"
+        android:title="Facebook"
+        />
+
+</menu>

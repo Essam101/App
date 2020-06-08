@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">khayrat KSA ِ</string>
+    <string name="ooops_name">OooPs!</string>
+    <string name="No_internet">No internet connection
+    check your connection
+    </string>
+    <string name="btn_tryAgin">Try Again</string>
+    <string name="title_activity_bottom__nav">bottom_Nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
